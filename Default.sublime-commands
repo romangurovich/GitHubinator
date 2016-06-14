@@ -15,6 +15,11 @@
     "args": { "permalink": false, "branch": "master" }
   },
   {
+    "caption": "GitHubinator on Develop",
+    "command": "githubinator",
+    "args": { "permalink": false, "branch": "develop" }
+  },
+  {
     "caption": "GitHubinator Permalink",
     "command": "githubinator",
     "args": { "permalink": true }
@@ -28,6 +33,11 @@
     "caption": "GitHubinator Blame on Master",
     "command": "githubinator",
     "args": { "permalink": false, "mode": "blame", "branch": "master" }
+  },
+  {
+    "caption": "GitHubinator Blame on Develop",
+    "command": "githubinator",
+    "args": { "permalink": false, "mode": "blame", "branch": "develop" }
   },
   {
     "caption": "GitHubinator Blame Permalink",
